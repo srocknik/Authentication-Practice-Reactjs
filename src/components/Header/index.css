@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-link {
+  margin-right: 20px;
+}
